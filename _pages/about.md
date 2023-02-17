@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 About me
 ======
 Hello! I am a 5th year PhD student in Computer Science, [Institute of Computing Technology, Chinese Academy of Sciences]() (ICT, CAS). My advisor is Professor ZHiqiang He. 
