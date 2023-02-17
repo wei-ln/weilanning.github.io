@@ -1,15 +1,28 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+(Full list provided in [[Google Scholar Page](https://scholar.google.com/citations?user=pqNTu0MAAAAJ&hl=zh-CN)]) 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+- Neural Architecture Search for GNN-based Graph Classification. TOIS 2023
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+	**Lanning Wei* ** , Huan Zhao*,  Zhiqiang He, Quanming Yao.
+  [paper] [code] [slides]
+
+- Search to Capture Long-range Dependency with Stacking GNNs for Graph Classification. The WebConf 2023
+
+  **Lanning Wei* ** , Zhiqiang He*, Huan Zhao, Quanming Yao.
+  [paper] [code] [slides]
+
+- Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective. The WebConf 2022
+
+  **Lanning Wei**, Huan Zhao, Zhiqiang He.
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512185)]  [[Code](https://github.com/LARS-research/F2GNN)]  [[slides](../file/F2GNN.pdf)]
+
+- Pooling Architecture Search for Graph Classification. CIKM 2021
+
+  **Lanning Wei* **, Huan Zhao*, Quanming Yao, Zhiqiang He.
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482285)]  [[Code](https://github.com/AutoML-Research/PAS)]  [[slides](../file/PAS.pdf)]
+
+- Simplifying architecture search for graph neural network. CIKM-CSSA 2020
+
+  Huan Zhao, **Lanning Wei**, Quanming Yao.
+  [[Paper](https://arxiv.org/abs/2008.11652)]  [[Code](https://github.com/LARS-research/SNAG)]
+
+(* means equal contributions )

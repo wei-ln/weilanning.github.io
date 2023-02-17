@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
 Hello! I am a 5th year PhD student in Computer Science, [Institute of Computing Technology, Chinese Academy of Sciences]() (ICT, CAS). My advisor is Professor ZHiqiang He. 
 
 **Research Interests**: Graph Neural Network; Automated Machine Learning; Graph Representation Learning.
@@ -65,8 +63,8 @@ Publications
 # Honors and Awards
 
 
-- 2021/2022 	Merit Student, University of Chinese Academy of Sciences
-- 2018           	National Scholarship, Ministry of Education of China
+- Merit Student, University of Chinese Academy of Sciences, 2020/2022
+- National Scholarship, Ministry of Education of China, 2018
 
 
 
