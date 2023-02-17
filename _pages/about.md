@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,8 @@ Hello! I am a 5th year PhD student in Computer Science, [Institute of Computing 
   - Advisor: Prof. Zhiqiang He
   
 - **School of Computing Sciences, Wuhan University**
-- B.E. in Internet of Things, 2014 - 2018.
+  - B.E. in Internet of Things, 2014 - 2018
+
 
 Publications
 ======
